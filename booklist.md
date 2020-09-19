@@ -10,17 +10,16 @@
  > *These book recommendations are based on the author’s personal preferences rather than their level of social impact. Chinese versions of books originally written in English are also listed for reference. However, please note the author has not necessarily read the Chinese versions, and cannot guarantee their quality of translation. If convenient, it is recommended that readers read the original English versions. In principle, no more than two books from the same author is recommended as part of the construction of this list; if the reader likes a certain author’s work(s), she can certainly choose to read the author’s other works as well.*
 
 * [一、科學、哲學、進化、人類文明史、人類歷史 | Science, Philosophy, Evolution, Human History](#%E4%B8%80%E7%A7%91%E5%AD%B8%E5%93%B2%E5%AD%B8%E9%80%B2%E5%8C%96%E4%BA%BA%E9%A1%9E%E6%96%87%E6%98%8E%E5%8F%B2%E4%BA%BA%E9%A1%9E%E6%AD%B7%E5%8F%B2--science-philosophy-evolution-human-history)
-* 二、中國文明、歷史、文化 | Chinese Civilization, History, Culture
-* 三、中國當代經濟改革開放 | China’s Contemporary Economic Reform and Opening-Up 
-* 四、價值投資、金融和資本主義 | Value Investing, Finance, and Capitalism
-* 五、西方文明史 | Western Civilization
-* 六、傳記類及其他 | Biographies and Others
+* [二、中國文明、歷史、文化 | Chinese Civilization, History, Culture](#%E4%BA%8C%E4%B8%AD%E5%9C%8B%E6%96%87%E6%98%8E%E6%AD%B7%E5%8F%B2%E6%96%87%E5%8C%96--chinese-civilization-history-culture)
+* [三、中國當代經濟改革開放 | China’s Contemporary Economic Reform and Opening-Up](#%E4%B8%89%E4%B8%AD%E5%9C%8B%E7%95%B6%E4%BB%A3%E7%B6%93%E6%BF%9F%E6%94%B9%E9%9D%A9%E9%96%8B%E6%94%BE--chinas-contemporary-economic-reform-and-opening-up) 
+* [四、價值投資、金融和資本主義 | Value Investing, Finance, and Capitalism](#%E5%9B%9B%E5%83%B9%E5%80%BC%E6%8A%95%E8%B3%87%E9%87%91%E8%9E%8D%E5%92%8C%E8%B3%87%E6%9C%AC%E4%B8%BB%E7%BE%A9--value-investing-finance-and-capitalism)
+* [五、西方文明史 | Western Civilization](#%E4%BA%94%E8%A5%BF%E6%96%B9%E6%96%87%E6%98%8E%E5%8F%B2--western-civilization)
+* [六、傳記類及其他 | Biographies and Others](#%E5%85%AD%E5%82%B3%E8%A8%98%E9%A1%9E%E5%8F%8A%E5%85%B6%E4%BB%96--biographies-and-others)
 
 ---
 
 ### **一、科學、哲學、進化、人類文明史、人類歷史 | Science, Philosophy, Evolution, Human History**
-1.	[美] 賈雷德‧戴蒙德，《槍砲、病菌與鋼鐵：人類社會的命運》，上海譯文出版社，2006。 
-Jared M. Diamond. Guns, Germs, and Steel: The Fates of Human Societies. New York, NY, US: W.W. Norton & Co, 1999.
+1. [美] 賈雷德‧戴蒙德，《槍砲、病菌與鋼鐵：人類社會的命運》，上海譯文出版社，2006  Jared M. Diamond. Guns, Germs, and Steel: The Fates of Human Societies. New York, NY, US: W.W. Norton & Co, 1999.
 2.	[美] 伊恩‧莫里斯，《西方將主宰多久：從歷史的發展模式看世界的未來》，中信出版社，2011。 
 Ian Morris. Why the West Rules – for Now: The Patterns of History, and What They Reveal About the Future. Picador. 2011.
 3.	[美] 伊恩‧莫里斯，《文明的度量：社會發展如何決定國家命運》，中信出版社，2014。 

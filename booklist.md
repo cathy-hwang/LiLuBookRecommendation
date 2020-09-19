@@ -227,8 +227,4 @@ Fareed Zakaria. The Future of Freedom: Illiberal Democracy at Home and Abroad. W
 14. [美] 格雷厄姆‧艾利森，《注定一戰：中美能避免修昔底德陷阱嗎?》，上海人民出版社，2019。 
 Graham Allison. Destined for War: Can America and China Escape Thucydides’s Trap? Houghton Mifflin Harcourt, 2017.
 
-
-
-
-
-
+Copyright Li Lu 2020

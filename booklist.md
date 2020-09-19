@@ -208,7 +208,7 @@ Paul Kennedy. The Rise and Fall of the Great Powers: Economic Change and Militar
 Walter Isaacson. Benjamin Franklin: An American Life. Simon & Schuster, 2003. 
 4. [美] 沃爾特‧艾薩克森，《列奧納多‧達‧芬奇傳：從凡人到天才的創造力密碼》，中信出版社，2018。
 Walter Isaacson. Leonardo da Vinci. Simon & Schuster, 2017. 
-5 [英] 大衛‧坎納丁，《梅隆：一個美國金融政治家的人生》，上海遠東出版社，2010。
+5. [英] 大衛‧坎納丁，《梅隆：一個美國金融政治家的人生》，上海遠東出版社，2010。
 David Cannadine. Mellon: An American Life. Knopf, 2006. 
 6. [美] 羅恩‧徹諾，《沃伯格家族：一個猶太金融家族的傳奇》，上海遠東出版社，2011。 
 Ron Chernow. The Warburgs: The Twentieth-Century Odyssey of a Remarkable Jewish Family. Random House, 1993. 
@@ -227,9 +227,9 @@ Fareed Zakaria. The Future of Freedom: Illiberal Democracy at Home and Abroad. W
 14. [美] 格雷厄姆‧艾利森，《注定一戰：中美能避免修昔底德陷阱嗎?》，上海人民出版社，2019。 
 Graham Allison. Destined for War: Can America and China Escape Thucydides’s Trap? Houghton Mifflin Harcourt, 2017.
 
+*note: for #4, the recommended Biography in Chinese was Walter Isaacson's Leonardo da Vinci; however, the recommendation in English was Walter Isaacon's Einstein: His Life and Universe*
+
 
 **[Back to Top](#li-lus-book-recommendations-from-%E6%96%87%E6%98%8E%E7%8F%BE%E4%BB%A3%E5%8C%96%E5%83%B9%E5%80%BC%E6%8A%95%E8%B3%87%E8%88%87%E4%B8%AD%E5%9C%8B-civilization-modernization-value-investing-and-china)**
 
 *Copyright Li Lu 2020*
-
-

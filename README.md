@@ -2,4 +2,4 @@
 
 * [List](booklist.md)
 
-Copyright Li Lu 2002
+Copyright Li Lu 2020

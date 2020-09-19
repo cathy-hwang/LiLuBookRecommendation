@@ -9,7 +9,7 @@
 
  > *These book recommendations are based on the author’s personal preferences rather than their level of social impact. Chinese versions of books originally written in English are also listed for reference. However, please note the author has not necessarily read the Chinese versions, and cannot guarantee their quality of translation. If convenient, it is recommended that readers read the original English versions. In principle, no more than two books from the same author is recommended as part of the construction of this list; if the reader likes a certain author’s work(s), she can certainly choose to read the author’s other works as well.*
 
-* [一、科學、哲學、進化、人類文明史、人類歷史 | Science, Philosophy, Evolution, Human History (#一、	科學、哲學、進化、人類文明史、人類歷史-|-science,-philosophy,-evolution,-human-history)](#%E4%B8%80%E7%A7%91%E5%AD%B8%E5%93%B2%E5%AD%B8%E9%80%B2%E5%8C%96%E4%BA%BA%E9%A1%9E%E6%96%87%E6%98%8E%E5%8F%B2%E4%BA%BA%E9%A1%9E%E6%AD%B7%E5%8F%B2--science-philosophy-evolution-human-history)
+* [一、科學、哲學、進化、人類文明史、人類歷史 | Science, Philosophy, Evolution, Human History](#%E4%B8%80%E7%A7%91%E5%AD%B8%E5%93%B2%E5%AD%B8%E9%80%B2%E5%8C%96%E4%BA%BA%E9%A1%9E%E6%96%87%E6%98%8E%E5%8F%B2%E4%BA%BA%E9%A1%9E%E6%AD%B7%E5%8F%B2--science-philosophy-evolution-human-history)
 * 二、中國文明、歷史、文化 | Chinese Civilization, History, Culture
 * 三、中國當代經濟改革開放 | China’s Contemporary Economic Reform and Opening-Up 
 * 四、價值投資、金融和資本主義 | Value Investing, Finance, and Capitalism
